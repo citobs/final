@@ -4,4 +4,4 @@
 
 04:21 final commit
 
-04:29 최종커밋
+04:29 the final commit
